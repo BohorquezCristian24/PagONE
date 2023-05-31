@@ -1,0 +1,105 @@
+body{
+
+  background-color:#B8A08C ;
+  position: relative;
+  top: 20px;
+  left: 20px;
+
+}
+
+header{
+    height: 260px; /* Ajusta la altura según tu menú de selección */
+    background-color:#5E1D12 ;
+    padding: 50px 0;
+
+}
+
+main{
+    
+}
+
+nav{
+
+    position: absolute;
+    top:150px;
+    right: 50px;
+   
+   }
+
+nav li{ 
+    display: inline;
+    margin: 0 0 0 30px;
+    word-spacing: 20px;
+}
+
+nav a{
+
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+  
+  }
+
+.biblioteca{
+   
+width: 1235px;
+position: relative;
+margin: 0 auto;
+}
+
+.informacion{
+
+    
+    width: calc(30% - 50px);
+    border: 500px;
+    padding: 100px;
+
+}
+
+area{
+
+width: 940px ;
+margin: 0 auto;
+padding: 30px;
+
+}
+
+.areas li{
+
+ display: inline-block;
+ margin-top: 200px;
+ text-align: center;
+ width: 30%;
+ vertical-align: top;
+ margin: 0 1.5%;
+ padding: 30px 20px;
+ box-sizing: border-box;
+
+ border: 2px solid black;
+ border-radius:  ;
+}
+
+.areas h2{
+
+ font-size: 32px;
+ font-weight: bold;
+
+}
+
+.foto-descripcion{
+
+ font-size: 24px;
+
+}
+
+.nota{
+
+font-size: 18px;
+margin-top: 10px;
+
+
+}
+
+

@@ -1,0 +1,103 @@
+body{
+
+background-color: #74241D;
+
+}
+header{
+
+background-color: #AB723D;
+padding: 50px 0;
+
+}
+
+.caja{
+
+width: 1235px;
+position: relative;
+margin: 0 auto;
+
+}
+nav{
+
+ position: absolute;
+ top:150px;
+ right: 50px;
+
+}
+
+nav li{ 
+    display: inline;
+    margin: 0 0 0 30px;
+    word-spacing: 20px;
+}
+
+nav a{
+
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+
+}
+
+.libro{
+  display: inline-block;
+  text-align: center;
+  width: 400px; /* Ajusta el ancho deseado */
+  height: 200px; /* Ajusta la altura deseada */
+  margin: 0 auto; /* Alinea al centro horizontalmente */
+  justify-content:center;
+  display: block; /* Convierte la imagen en un elemento de bloque */
+  border: 5px solid #000; /* Agrega un borde de 2 píxeles de ancho y color negro */
+  
+}
+
+
+.informacion{
+
+ width: 811px;
+ margin: 0 auto;
+ padding: 50px;
+
+}
+
+.informacion{
+
+ display: inline-block;
+
+}
+
+.informacion li{
+
+display: inline-block;
+text-align: center;
+vertical-align: top;
+
+}
+
+.informacion h2{
+  
+  font-size: 30px;
+  font-weight: bold;
+
+
+}
+
+.textoCentrado{
+
+text-indent: 20px;
+text-align: center; 
+  margin: 20px; 
+  font-size: 24px;
+
+}
+
+.informacion h3 {
+
+  display: inline-block;
+  text-align: left;
+  margin-top: 20px;
+
+
+}
